@@ -255,11 +255,9 @@ docs/hardening-checklist.md
 
 Demo Video Link:
 
-```text
-N/A
-```
+Google Drive Video:
 
-(Add your demo video URL here if available.)
+https://drive.google.com/drive/folders/1gk4jQnRSMcqs40xzZqegpAjsiDT3cJ7N
 
 ---
 
